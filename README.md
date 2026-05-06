@@ -2,7 +2,6 @@
 
 **Tools:** Python · SQL · Power BI · DAX
 **Domain:** Healthcare / Hospital Operations
-**Level:** Intermediate
 
 ---
 
