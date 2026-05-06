@@ -75,8 +75,8 @@ python python/generate_data.py
 1. **Executive Overview** - Admissions, LOS, readmission rate KPI cards
 2. **Bed Occupancy** - Heatmap by department × day, capacity alerts
 3. **Emergency Performance** - Wait times, breach rates, trend
-4. **Patient Demographics**- Age group, insurance type, cost breakdown
-5. **Department Deep Dive** — Slicer-driven per-department analysis
+4. **Patient Demographics** - Age group, insurance type, cost breakdown
+5. **Department Deep Dive** - Slicer-driven per-department analysis
 
 ---
 
